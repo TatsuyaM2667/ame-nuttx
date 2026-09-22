@@ -1,0 +1,21 @@
+# Build artifacts
+*.o
+*.a
+*.d
+.built
+.depend
+Make.dep
+
+# NuttX workspace (not part of this repo)
+nuttx/
+apps-external/
+
+# Zig
+zig-cache/
+zig-out/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~

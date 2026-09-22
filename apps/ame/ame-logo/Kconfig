@@ -1,0 +1,5 @@
+config AME_LOGO
+	bool "Ame Linux logo"
+	default n
+	---help---
+		Display Ame Linux ASCII logo with ANSI 256-color gradient.

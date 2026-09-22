@@ -1,0 +1,2 @@
+CONFIGURED_APPS += $(APPDIR)/ame/ame-logo
+CONFIGURED_APPS += $(APPDIR)/ame/ame-fetch

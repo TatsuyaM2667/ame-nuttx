@@ -1,0 +1,5 @@
+config AME_FETCH
+	bool "Ame NuttX system info"
+	default n
+	---help---
+		Display system information in Ame style.

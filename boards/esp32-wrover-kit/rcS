@@ -1,0 +1,15 @@
+/****************************************************************************
+ * boards/xtensa/esp32/common/src/etc/init.d/rcS
+ *
+ * Ame NuttX startup script
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ ****************************************************************************/
+
+#include <nuttx/config.h>
+
+/* Ame NuttX startup */
+
+echo ""
+ame-fetch
+echo ""
